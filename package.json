@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mwero Abdalla",
-
+"description": "A simple npm package",
+	"keywords": ["freecodecamp","npm", "package", "json", "package.json", "json-file"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,5 +13,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mwenaro/freecodecamp-backend-certification.git"
-	}
+	},
+	"license": "MIT",
 }
